@@ -17,7 +17,7 @@ To this:
 
 1) Click the link that says 'PPPP' down there.
 2) Select **all the text** you see.
-3) Drag the marked text into your browsers Bookmark bar.
+3) Drag the marked text into your browsers Bookmark bar. (You can rename it, but dont change the URL) 
 
 [PPPP](https://raw.githubusercontent.com/p410n3/PPPP/master/pppp.js)
 
