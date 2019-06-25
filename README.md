@@ -16,7 +16,7 @@ To this:
 ## Installation
 
 1) Click the link that says 'PPPP' down there.
-2) Copy all the text you see.
+2) Select all the text you see.
 3) Drag the marked text into your browsers Bookmark bar.
 
 [PPPP](https://raw.githubusercontent.com/p410n3/PPPP/master/pppp.js)
