@@ -15,9 +15,13 @@ To this:
 
 ## Installation
 
-Just drag the text from the link that says PPPP into your bookmark bar. To activate the PPPP click the Bookmark when you are at the Security question page at PayPal.
+1) Click the link that says 'PPPP' down there.
+2) Copy all the text you see.
+3) Drag the marked text into your browsers Bookmark bar.
 
 [PPPP](https://raw.githubusercontent.com/p410n3/PPPP/master/pppp.js)
+
+To use the PPPP, click on the bookmarklet when you are on the Security Question Page at PayPal.
 
 ## FAQ
 
