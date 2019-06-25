@@ -6,8 +6,11 @@ PayPal Peeping Protection
 PayPal offers this feature that allows you to answer KBA like security questions if you cant use your phone for 2FA. This is great if your phone is out of battery of course, but whatever answer you write into the input fields is *NOT MASKED*. So anyone looking at your screen can read what you wrote. That sucks.
 
 To combat this I made this bookmarklet. To go from this:
+
 ![img1](img/1.png)
+
 To this:
+
 ![img2](img/2.png)
 
 ## Installation
