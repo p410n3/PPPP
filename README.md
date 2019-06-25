@@ -1,5 +1,5 @@
 # PPPP
-PayPal Peeping Protection
+PayPal Peeping Protection - PPPP
 
 ## Protects you from Peeping Persons trying to read your KBA Questiond on PayPal
 
@@ -15,9 +15,9 @@ To this:
 
 ## Installation
 
-Just drag the link that says PPPP into your bookmark bar. To active the PPPP click the Bookmark when you are at the Security question page at PayPal.
+Just drag the text from the link that says PPPP into your bookmark bar. To activate the PPPP click the Bookmark when you are at the Security question page at PayPal.
 
-[PPPP](javascript:(function()%7Bconst form %3D document.querySelector('.securityQuestionsForm')%3B const inputs %3D form.querySelectorAll('.hasHelp')%3B const labels %3D form.querySelectorAll('.fieldLabelVisible')%3B for (let input of inputs) %7B input.type %3D 'password'%3B %7D for (let label of labels) %7B label.style %3D 'background%3A black%3B color%3A black%3B'%3B %7D%7D)())
+[PPPP](https://raw.githubusercontent.com/p410n3/PPPP/master/pppp.js)
 
 ## FAQ
 
