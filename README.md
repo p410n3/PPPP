@@ -25,16 +25,13 @@ To use the PPPP, click on the bookmarklet when you are on the Security Question 
 
 ## FAQ
 
+````
 Q: Why not as a UserScript for Tampermonkey, this way I dont have to press a button.
-
 A: Two reasons: PayPal uses CSP, so it didn't work, and UserScript have an autoupdate feature, which means you have to trust me to not steal your PayPal credentials afetr an update.
 
-
 Q: In which browsers does this work?
-
 A: Does work in Chromium, does not work in FireFox due to CSP restrictions
 
-
 Q: You should never use KBA in the first place!
-
 A: But if you have to, it's a bit more secure now.
+````
