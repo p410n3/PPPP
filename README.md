@@ -1,7 +1,7 @@
 # PPPP
 PayPal Peeping Protection - PPPP
 
-## Protects you from Peeping Persons trying to read your KBA Questiond on PayPal
+## Protects you from Peeping Persons trying to read your KBA Questions on PayPal
 
 PayPal offers this feature that allows you to answer KBA like security questions if you cant use your phone for 2FA. This is great if your phone is out of battery of course, but whatever answer you write into the input fields is *NOT MASKED*. So anyone looking at your screen can read what you wrote. That sucks.
 
